@@ -1,0 +1,10 @@
+= Run
+
+[source]
+----
+cd documentation && mvn geronimo-antora:run
+----
+
+Output is in `documentation/target/site-documentation`.
+
+TIP: to generate the site locally add `-Dgeronimo-antora.local=true`.
