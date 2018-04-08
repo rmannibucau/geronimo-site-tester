@@ -1,0 +1,15 @@
+= The Page 1
+
+
+This is a great project.
+
+Run it with:
+
+[source,java]
+----
+public class Main {
+    public static void main(final String[] args) {
+        GreatProject.launch(args);
+    }
+}
+----

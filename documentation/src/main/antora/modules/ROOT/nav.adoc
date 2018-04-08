@@ -1,1 +1,2 @@
-The menu
+.Menu
+* xref:page1.adoc[Page 1]
